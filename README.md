@@ -1,2 +1,2 @@
 # Api-dolar
-Consumindo api get da https://docs.awesomeapi.com.br/
+Consumindo API get em Python da https://docs.awesomeapi.com.br/
